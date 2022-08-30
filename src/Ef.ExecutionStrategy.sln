@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{9907F504-93A7-4BE0-AFA2-311378CD3983}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{0A6F3A61-4AE2-4A06-AD97-33EB98AE7E13}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\ReadMe.md = ..\ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9907F504-93A7-4BE0-AFA2-311378CD3983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9907F504-93A7-4BE0-AFA2-311378CD3983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9907F504-93A7-4BE0-AFA2-311378CD3983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9907F504-93A7-4BE0-AFA2-311378CD3983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
